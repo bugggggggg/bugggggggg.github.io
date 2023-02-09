@@ -20,9 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Resume.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  # - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Mail, icon: envelope, url: "1250378468@qq.com"}
   - {title: Github, icon: github, url: "https://github.com/bugggggggg"}
-  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Codeforces, icon: user, url: "https://codeforces.com/profile/yqq"}
+  - {title: Leetcode, icon: user, url: "https://leetcode.cn/u/wangyuqi/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

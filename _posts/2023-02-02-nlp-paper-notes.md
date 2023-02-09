@@ -1,8 +1,12 @@
 ---
-title:  "Paper Notes"
+title:  "NLP Paper Notes"
 layout: post
 ---
 
+-----
+
+**PromptCap: Prompt-Guided Task-Aware Image Captioning**
+- use few-shot learning to synthesize training data from large language models. Then filter the data to ensure the quality.
 
 -----
 
