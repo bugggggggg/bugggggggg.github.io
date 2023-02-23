@@ -4,6 +4,47 @@ layout: post
 ---
 
 -----
+**Deduplicating Training Data Makes Language Models Better**
+- About deduplicating training datasets.
+- methods:
+    - Exact match: use Suffix Array.
+    - Approximate match: first use **MinHash**, then use 'edit distance' to further filter. Link similar documents. Any connected documents are considered as similar.
+
+-----
+**Toolformer: Language Models Can Teach Themselves to Use Tools**
+- Use language model to convert a dataset into a new dataset which contains api calls
+- Compare the PPL of a sentence before and after adding api calls to filter the new dataset.
+- Finetune the language model on the filtered dataset
+- It contains some prompts.
+
+-----
+**Learning Performance Improving Code Edits**
+- Curate a dataset with slow-fast program pairs(come from OJ, the same user's different submission with respect to one problem)
+- Use large language model to optimize programs.
+    - Use CodeX to do few-shot learning
+    - Fine-tune CodeGen 
+
+-----
+***Symbolic Discovery of Optimization Algorithms**
+- Lion: a new optimizer, better than Adam. Require smaller learning rate, only track 1st momentum. And use sign of the interpolation of momentum and gradient to update parameters.
+- search program space to find a algorithm: 
+    - define some basic functions
+    - in every search step, add or delete a function or parameter
+    - prune the space by deleting invalid states and doing hashing
+    - validate the program on tasks step by step(first surpass the baseline of small tasks, then test it on larger tasks)
+
+-----
+**Neural Machine Translation of Rare Words with Subword Units**
+- Byte Pair Encoding(BPE): a method between word level and character level, to generate vocabularies
+    - divide words into characters
+    - use 2-gram to choose the most frequent pair, merge it and add it to the vocabulary
+
+
+-----
+**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**
+- generate hard prompts for texts and pictures by optimization
+
+-----
 
 **PromptCap: Prompt-Guided Task-Aware Image Captioning**
 - use few-shot learning to synthesize training data from large language models. Then filter the data to ensure the quality.
@@ -27,6 +68,6 @@ layout: post
 - transformer encoder pretrained with masked token prediction and next sentence prediction
 
 -----
-[x]**Language Models are Few-Shot Learners(GPT3)**
+**Language Models are Few-Shot Learners(GPT3)**
 
 -----

@@ -7,7 +7,7 @@ WANG Yuqi<br/>
 Email: 1250378468@qq.com
 
 ## Education Background                                                           
-- Tongji University, Bachelor of Engineering 09/2018-07/2022
+- Tongji University, Bachelor of Engineering 09/2018-07/2022 <br/>
 	Major: Software Engineering; GPA: 4.67/5.0
 - The University of Hong Kong, Master of Computer Science 09/2022-
 
@@ -20,3 +20,5 @@ Email: 1250378468@qq.com
 - Gold Medal, The 2020 International Collegiate Programming Contest (ICPC) Asia Yinchuan Regional Contest
 - Gold Medal, The 45th ICPC Asia Regional Contest Shanghai Site 2020
 - First Prize, 2021 Group Programming Ladder Tournament
+- The First Prize Scholarship, Tongji University, 2018-2019
+- The China Postgraduate Scholarships for Computer Science, The University of Hong Kong, 2022-2023
