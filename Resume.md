@@ -3,8 +3,8 @@ title:  "Resume"
 layout: post
 ---
 
+<img src="assets/img/me.jpg" style="float: right; margin: 0 10% 0 0;" width="20%"/>
 
-<img src="https://github.com/bugggggggg/bugggggggg.github.io/blob/main/assets/images/wyq.jpg" style="float: right; margin: 0 10% 0 0;" width="20%"/>
 
 WANG Yuqi<br/>
 Email: 1250378468@qq.com
@@ -16,7 +16,7 @@ Email: 1250378468@qq.com
 - The University of Hong Kong, Master of Computer Science 09/2022-now<br/>
 	Advisor: Liu Qi
 
-## Internship                                                           
+## Internship     
 - Tencent Aurora Studios, Client Game Developer Intern               07/2021-10/2021 <br/>
 - Student Research Assistant with Professor Liuqi in HKU 					   10/2022-		
 
