@@ -18,7 +18,7 @@ Email: 1250378468@qq.com
 
 ## Internship     
 - Tencent Aurora Studios, Client Game Developer Intern               07/2021-10/2021 <br/>
-- Student Research Assistant with Professor Liuqi in HKU 					   10/2022-		
+- Student Research Assistant with Professor Liu Qi in HKU 			 10/2022-01/2022 <br/>		
 
 
 ## Awards                                                                      
