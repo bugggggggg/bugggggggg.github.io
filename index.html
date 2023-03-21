@@ -3,10 +3,24 @@ layout: default
 title: "Home"
 ---
 
-<p style="background-image: url('https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg');"></p>
+<style> 
+  body {
+  background-image: url("https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  }
+</style>
+<body>
+  <img src="assets/img/me.jpg" style="float: right; margin: 0 10% 0 0;" width="20%"/>
+  {% if site.show_excerpts %}
+    {% include home.html %}
+  {% else %}
+    {% include archive.html title="Posts" %}
+  {% endif %}
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+</body> 
+
