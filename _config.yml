@@ -17,10 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "Resume.md"}
+  - {file: "Resume.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "1250378468@qq.com"}
+  # - {title: Mail, icon: envelope, url: "1250378468@qq.com"}
   - {title: Github, icon: github, url: "https://github.com/bugggggggg"}
   - {title: Codeforces, icon: user, url: "https://codeforces.com/profile/yqq"}
   - {title: Leetcode, icon: user, url: "https://leetcode.cn/u/wangyuqi/"}

@@ -4,6 +4,21 @@ layout: post
 ---
 
 -----
+**CodeBERT**
+- Transformer based bidirection model
+- two training objective: 
+    - masked language modeling
+    - replaced token detection (mask first; use n-gram to fill the masked position, then ask the model to predict whether the token is replaced or original)
+- curate a multi-choice benchmark(only *max* and *min*), ask the model to fill the masked position. 
+
+-----
+**SemSup-XC: Semantic Supervision for Zero and Few-shot Extreme Classification**
+- Given a label, extent it to a descriptive sentence by crawling and filtering web texts
+- Cluster BERT word embeddings to get word clusters
+- Lexico-Semantic similarity: sentence similarity + word similarity(in the same cluster)
+- contrastive learning(first filter then sample: filter the obvious unrelated one to accelerate)
+ 
+-----
 **Deduplicating Training Data Makes Language Models Better**
 - About deduplicating training datasets.
 - methods:
@@ -25,7 +40,7 @@ layout: post
     - Fine-tune CodeGen 
 
 -----
-***Symbolic Discovery of Optimization Algorithms**
+**Symbolic Discovery of Optimization Algorithms**
 - Lion: a new optimizer, better than Adam. Require smaller learning rate, only track 1st momentum. And use sign of the interpolation of momentum and gradient to update parameters.
 - search program space to find a algorithm: 
     - define some basic functions
