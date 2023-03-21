@@ -4,7 +4,7 @@ layout: post
 ---
 
 
-<img src="assets/images/wyq.jpg" style="float: right; margin: 0 10% 0 0;" width="20%"/>
+<img src="https://github.com/bugggggggg/bugggggggg.github.io/blob/main/assets/images/wyq.jpg" style="float: right; margin: 0 10% 0 0;" width="20%"/>
 
 WANG Yuqi<br/>
 Email: 1250378468@qq.com
