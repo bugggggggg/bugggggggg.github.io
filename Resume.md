@@ -3,7 +3,7 @@ title:  "Resume"
 layout: post
 ---
 
-<img src="assets/img/me.jpg" style="float: right; margin: 0 10% 0 0;" width="20%"/>
+<img src="../../../assets/img/me.jpg" style="float: right; margin: 0 10% 0 0;" width="20%"/>
 
 
 WANG Yuqi<br/>
