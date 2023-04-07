@@ -9,7 +9,7 @@ It's a summary of the [blog](https://towardsdatascience.com/a-visual-guide-to-le
 
 [PyTorch Documentation](https://pytorch.org/docs/stable/optim.html)
 
-![scheduler](../assets/img/scheduler.png)
+![scheduler](../assets/img/2023/2023-03-29-scheduler/scheduler.png)
 
 ## CosineAnnealingLR
 ```python

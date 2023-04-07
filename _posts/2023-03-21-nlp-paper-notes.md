@@ -1,5 +1,5 @@
 ---
-title:  "NLP Paper Notes"
+title:  "NLP Paper Notes-2"
 layout: post
 ---
 
@@ -14,4 +14,10 @@ layout: post
 
 -----
 
+**SELECTIVE ANNOTATION MAKES LANGUAGE MODELS BETTER FEW-SHOT LEARNERS**
+- a method that helps to choose examples for in-context learning
+    1. use SentenceBERT to put all samples into a vector space
+    2. use cosine similarity and language model's confidence as metric to choose top-k samples
+    3. manually annotate choosed samples
+    4. when choosing examples for in-context learning, again use SentenceBERT to map the data into vector space and choose the k-nearest neighbors.
 
