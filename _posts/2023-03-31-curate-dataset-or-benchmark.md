@@ -52,3 +52,8 @@ layout: post
 
 **GitTables: A Large-Scale Corpus of Relational Tables**
 - extract **1M** CSV tables from Github
+
+-----
+
+**The Stack: 3 TB of permissively licensed source code**
+
