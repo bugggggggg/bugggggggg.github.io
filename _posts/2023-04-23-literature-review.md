@@ -19,7 +19,7 @@ Fine-tuning BART to do data preparation tasks:
 
 
 ## Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes
-![architecture](https://github.com/HazyResearch/evaporate/blob/main/assets/banner.png)
+![architecture](https://github.com/HazyResearch/evaporate/blob/main/assets/banner.png?raw=true)
 - Use LLM to extract tabular data from semi-structured data (e.g. HTML webpages, PDFs, text)
 - methods:
     - Direct Extraction: costly, 
@@ -37,3 +37,10 @@ Fine-tuning BART to do data preparation tasks:
 
 ## DocPrompting: Generating Code by Retrieving the Docs
 - retrieve documentation of functions and libraries as prompts to help code synthesis.
+
+## Binding Language Models in Symbolic Languages
+- prompt CodeX to generate SQL/Python programs over tables, then execute them to get the result
+    - two steps: use in-context learning to generate rough programs with some questions(prompt CodeX again to solve it)
+    - use the first three line of a table in prompt. 
+    - fixed in-context learning or use SentenceBERT and similarity to find the top-k relavent one.
+

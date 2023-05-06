@@ -16,3 +16,7 @@ layout: post
     - previous word prediction loss(backward)
     - agreement loss(distance between forward and backward represetations of tokens)
 - When inferring, synchronously generate tokens from both ends. (meet in the middle)
+
+## CodeGen2: Lessons for Training LLMs on Programming and Natural Languages
+
+
