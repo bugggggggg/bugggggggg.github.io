@@ -20,3 +20,7 @@ layout: post
 ## CodeGen2: Lessons for Training LLMs on Programming and Natural Languages
 
 
+## StarCoder: may the source be with you!
+- # TODO
+- Use **JupyText** to deal with Jupyter notebooks
+- evaluate on **DS-1000** dataset

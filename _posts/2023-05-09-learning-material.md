@@ -13,3 +13,5 @@ layout: post
 
 
 >[scheduler](https://towardsdatascience.com/a-visual-guide-to-learning-rate-schedulers-in-pytorch-24bbb262c863)
+
+>[Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
