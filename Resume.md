@@ -17,21 +17,21 @@ Email: 1250378468@qq.com
 	Advisor: Liu Qi
 
 ## Internship
-- <p style="text-align:left;">
+<p style="text-align:left;">
     Tencent Aurora Studios, Client Game Developer Intern
     <span style="float:right;">
         07/2021-10/2021
     </span>
 </p>
 
-- <p style="text-align:left;">
+<p style="text-align:left;">
     Student Research Assistant with Professor Liu Qi in HKU
     <span style="float:right;">
         10/2022-01/2022
     </span>
 </p>
 
-- <p style="text-align:left;">
+<p style="text-align:left;">
     Reka AI
     <span style="float:right;">
         06/2023-now

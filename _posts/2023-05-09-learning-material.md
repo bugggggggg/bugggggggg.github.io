@@ -15,3 +15,5 @@ layout: post
 >[scheduler](https://towardsdatascience.com/a-visual-guide-to-learning-rate-schedulers-in-pytorch-24bbb262c863)
 
 >[Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
+
+>[Regular Expression](https://developers.google.com/edu/python/regular-expressions)
