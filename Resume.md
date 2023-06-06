@@ -27,7 +27,7 @@ Email: 1250378468@qq.com
 <p style="text-align:left;">
     Student Research Assistant with Professor Liu Qi in HKU
     <span style="float:right;">
-        10/2022-01/2022
+        10/2022-01/2023
     </span>
 </p>
 
@@ -40,8 +40,10 @@ Email: 1250378468@qq.com
 
 
 ## Awards                                                                      
-- Gold Medal, The 2020 International Collegiate Programming Contest (ICPC) Asia Yinchuan Regional Contest
-- Gold Medal, The 45th ICPC Asia Regional Contest Shanghai Site 2020
+- Gold Medal, The 2020 International Collegiate Programming Contest Asia Yinchuan Regional Contest
+- Gold Medal, The 2020 International Collegiate Programming Contest Asia Shanghai Regional Contest
+- Silver Prize, 2020 China Collegiate Programming Contest, Qinhuangdao Site
+- Silver Prize, 2020 China Collegiate Programming Contest, Mianyang Site
 - First Prize, 2021 Group Programming Ladder Tournament
 - The First Prize Scholarship, Tongji University, 2018-2019
 - The China Postgraduate Scholarships for Computer Science, The University of Hong Kong, 2022-2023
