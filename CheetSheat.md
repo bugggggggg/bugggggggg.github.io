@@ -1,5 +1,5 @@
 ---
-title:  "Basic Commands"
+title:  "Cheat Sheet"
 layout: post
 ---
 
@@ -9,6 +9,7 @@ layout: post
 tmux new -s mysession
 tmux attach -t mysession
 tmux ls
+tmux kill-session -t mysession
 ```
 
 ### Conda
