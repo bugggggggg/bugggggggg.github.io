@@ -19,3 +19,12 @@ conda create -n py311 python=3.11
 conda remove --name ENVIRONMENT --all
 ```
 
+### Git
+```bash
+# local
+git config user.name "Your Name Here"
+git config user.email your@email.example
+# global
+git config --global user.name "Your Name Here"
+git config --global user.email your@email.example
+```

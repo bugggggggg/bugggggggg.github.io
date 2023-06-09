@@ -44,3 +44,5 @@ Fine-tuning BART to do data preparation tasks:
     - use the first three line of a table in prompt. 
     - fixed in-context learning or use SentenceBERT and similarity to find the top-k relavent one.
 
+## A Static Evaluation of Code Completion by Large Language Models
+- do evaluation using Abstract Syntax Trees
