@@ -46,3 +46,8 @@ Fine-tuning BART to do data preparation tasks:
 
 ## A Static Evaluation of Code Completion by Large Language Models
 - do evaluation using Abstract Syntax Trees
+
+
+## Textbooks Are All You Need
+- **phi-1** model
+- only trained on **textbook quality** data

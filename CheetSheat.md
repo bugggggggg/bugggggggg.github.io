@@ -9,8 +9,10 @@ layout: post
 (sudo) apt install tmux # for Ubuntu
 tmux new -s mysession
 tmux attach -t mysession
+tmux detach
 tmux ls
 tmux kill-session -t mysession
+tmux rename-session -t old-session-name new-session-name
 ```
 
 ### Conda

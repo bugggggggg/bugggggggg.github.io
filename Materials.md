@@ -29,6 +29,8 @@ layout: post
 
 >[MinHash](https://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)
 
+>[Simple Slack Post Tutorial](https://api.slack.com/tutorials/tracks/posting-messages-with-curl)
+
 ## Courses
 
 
