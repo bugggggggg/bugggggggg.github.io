@@ -34,6 +34,9 @@ git config --global user.email your@email.example
 
 ### Shell
 ```bash
+# linter
+autopep8 --in-place --aggressive --aggressive <filename>
+
 # substr
 string='My long string'
 if [[ $string == *"My long"* ]]; then
