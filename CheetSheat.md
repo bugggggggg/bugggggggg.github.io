@@ -20,6 +20,7 @@ tmux rename-session -t old-session-name new-session-name
 conda env list
 conda create -n py311 python=3.11
 conda remove --name ENVIRONMENT --all
+echo 'export PATH=/path/to/anaconda3/bin:$PATH' >> ~/.bashrc
 ```
 
 ### Git
@@ -59,3 +60,6 @@ stem=$(basename "${file}" .gz)
 $(basename NAME [SUFFIX])
 $(basename OPTION NAME)
 ```
+
+### Markdown
+[cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
