@@ -32,12 +32,14 @@ Email: 1250378468@qq.com
 </p>
 
 <p style="text-align:left;">
-    Reka AI
+    <a href="https://reka.ai/">Reka AI</a>
     <span style="float:right;">
         06/2023-now
     </span>
 </p>
 
+## Publication
+- Yazheng Yang, **Yuqi Wang**, Guang Liu, Ledell Wu, Qi Liu (2023). UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data. In [arXiv](https://arxiv.org/abs/2307.09249).
 
 ## Awards                                                                      
 - Gold Medal, The 2020 International Collegiate Programming Contest Asia Yinchuan Regional Contest

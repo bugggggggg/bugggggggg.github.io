@@ -33,6 +33,14 @@ git config --global user.name "Your Name Here"
 git config --global user.email your@email.example
 ```
 
+### Slurm
+```bash
+# show idle cpus and free memory
+sinfo -o "%n %e %m %a %c %C"
+# show resources the job uses
+scontrol show job [job_id]
+```
+
 ### Shell
 ```bash
 # linter
