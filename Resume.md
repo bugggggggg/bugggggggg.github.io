@@ -3,7 +3,7 @@ title:  "Resume"
 layout: post
 ---
 
-<img src="../../../assets/img/me.jpg" style="float: right; margin: 0 0 0 0;" width="20%"/>
+<img src="https://raw.githubusercontent.com/bugggggggg/bugggggggg.github.io/main/assets/img/me.jpg" style="float: right; margin: 0 0 0 0;" width="20%"/>
 
 
 WANG Yuqi<br/>
@@ -16,7 +16,7 @@ Email: 1250378468@qq.com
 - The University of Hong Kong, Master of Computer Science 09/2022-now<br/>
 	Advisor: Liu Qi
 
-## Internship
+## Experience
 <p style="text-align:left;">
     Tencent Aurora Studios, Client Game Developer Intern
     <span style="float:right;">
@@ -35,6 +35,13 @@ Email: 1250378468@qq.com
     <a href="https://reka.ai/">Reka AI</a>
     <span style="float:right;">
         06/2023-now
+    </span>
+</p>
+
+<p style="text-align:left;">
+    Research Assistant with Professor Qiu Lin in Southern University of Science and Technology
+    <span style="float:right;">
+        10/2023-now
     </span>
 </p>
 
