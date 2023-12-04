@@ -43,6 +43,8 @@ scontrol show job [job_id]
 
 ### Shell
 ```bash
+tar -czvf name-of-archive.tar.gz /path/to/directory-or-file
+
 # linter
 autopep8 --in-place --aggressive --aggressive <filename>
 
@@ -67,6 +69,23 @@ grep MemTotal /proc/meminfo
 stem=$(basename "${file}" .gz)
 $(basename NAME [SUFFIX])
 $(basename OPTION NAME)
+
+# wget till success
+while true;do
+  wget -T 15 -c http://example.com && break
+done
+```
+
+### HugginceFace
+
+```bash
+# ssh config
+eval `ssh-agent -s`
+ssh-add ~/.ssh/id_ed25519
+
+git lfs track *.parquet
+
+git@hf.co:<username>/<name of model> 
 ```
 
 ### Markdown
