@@ -31,6 +31,11 @@ git config user.email your@email.example
 # global
 git config --global user.name "Your Name Here"
 git config --global user.email your@email.example
+
+# push a existing local repo to remote
+git remote add origin git@github.com:<username>/<reponame>.git
+git branch -M main
+git push -u origin main
 ```
 
 ### Slurm
@@ -39,6 +44,8 @@ git config --global user.email your@email.example
 sinfo -o "%n %e %m %a %c %C"
 # show resources the job uses
 scontrol show job [job_id]
+# run execution time of a finish job
+sacct --format=JobID,JobName,Elapsed,Start,End
 ```
 
 ### Shell
@@ -89,4 +96,13 @@ git@hf.co:<username>/<name of model>
 ```
 
 ### Markdown
+
+[foldable markdown](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+## Torch
+
+```bash
+python -m torch.utils.collect_env 
+```
