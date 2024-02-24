@@ -2,21 +2,21 @@
 title:  "Resume"
 layout: post
 ---
-
 <img src="https://raw.githubusercontent.com/bugggggggg/bugggggggg.github.io/main/assets/img/me.jpg" style="float: right; margin: 0 0 0 0;" width="20%"/>
 
-
-WANG Yuqi<br/>
+WANG Yuqi`<br/>`
 Email: 1250378468@qq.com
 
-## Education Background                                                           
-- Tongji University, Bachelor of Engineering 09/2018-07/2022 <br/>
-	Major: Software Engineering; 
-	GPA: 4.67/5.0
-- The University of Hong Kong, Master of Computer Science 09/2022-now<br/>
-	Advisor: Liu Qi
+## Education Background
+
+- Tongji University, Bachelor of Engineering 09/2018-07/2022 `<br/>`
+  Major: Software Engineering;
+  GPA: 4.67/5.0
+- The University of Hong Kong, Master of Computer Science 09/2022-now`<br/>`
+  Advisor: Liu Qi
 
 ## Experience
+
 <p style="text-align:left;">
     Tencent Aurora Studios, Client Game Developer Intern
     <span style="float:right;">
@@ -41,14 +41,16 @@ Email: 1250378468@qq.com
 <p style="text-align:left;">
     Research Assistant with Professor Qiu Lin in Southern University of Science and Technology
     <span style="float:right;">
-        10/2023-now
+        10/2023-12/2023
     </span>
 </p>
 
 ## Publication
-- Yazheng Yang, **Yuqi Wang**, Guang Liu, Ledell Wu, Qi Liu (2023). UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data. In [arXiv](https://arxiv.org/abs/2307.09249).
 
-## Awards                                                                      
+- Yazheng Yang, **Yuqi Wang**, Guang Liu, Ledell Wu, Qi Liu (2023). UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data. In [ICLR 2024](https://arxiv.org/abs/2307.09249).
+
+## Awards
+
 - Gold Medal, The 2020 International Collegiate Programming Contest Asia Yinchuan Regional Contest
 - Gold Medal, The 2020 International Collegiate Programming Contest Asia Shanghai Regional Contest
 - Silver Prize, 2020 China Collegiate Programming Contest, Qinhuangdao Site

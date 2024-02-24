@@ -2,9 +2,8 @@
 title:  "Cheat Sheet"
 layout: post
 ---
-
-
 ### Tmux
+
 ```bash
 (sudo) apt install tmux # for Ubuntu
 tmux new -s mysession
@@ -16,6 +15,7 @@ tmux rename-session -t old-session-name new-session-name
 ```
 
 ### Conda
+
 ```bash
 conda env list
 conda create -n py311 python=3.11
@@ -24,6 +24,7 @@ echo 'export PATH=/path/to/anaconda3/bin:$PATH' >> ~/.bashrc
 ```
 
 ### Git
+
 ```bash
 # local
 git config user.name "Your Name Here"
@@ -39,6 +40,7 @@ git push -u origin main
 ```
 
 ### Slurm
+
 ```bash
 # show idle cpus and free memory
 sinfo -o "%n %e %m %a %c %C"
@@ -49,6 +51,7 @@ sacct --format=JobID,JobName,Elapsed,Start,End
 ```
 
 ### Shell
+
 ```bash
 tar -czvf name-of-archive.tar.gz /path/to/directory-or-file
 
@@ -81,6 +84,8 @@ $(basename OPTION NAME)
 while true;do
   wget -T 15 -c http://example.com && break
 done
+
+ls -lrt | awk '{ total += $5 }; END { print total }'
 ```
 
 ### HugginceFace
@@ -99,7 +104,6 @@ git@hf.co:<username>/<name of model>
 
 [foldable markdown](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 
 ## Torch
 
