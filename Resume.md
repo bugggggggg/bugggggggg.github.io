@@ -48,6 +48,7 @@ Email: 1250378468@qq.com
 ## Publication
 
 - Yazheng Yang, **Yuqi Wang**, Guang Liu, Ledell Wu, Qi Liu (2023). UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data. In [ICLR 2024](https://arxiv.org/abs/2307.09249).
+- Lei Li, **Yuqi Wang**, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu (2024). Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models. In [arxiv](https://arxiv.org/abs/2403.00231)
 
 ## Awards
 
