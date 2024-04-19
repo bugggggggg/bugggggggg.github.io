@@ -48,12 +48,14 @@ Email: 1250378468@qq.com
 ## Publication
 
 - Yazheng Yang, **Yuqi Wang**, Guang Liu, Ledell Wu, Qi Liu (2023). UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data. In [ICLR 2024](https://arxiv.org/abs/2307.09249).
-- Lei Li<sup>\*</sup>, Yuqi Wang<sup>\*</sup>, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu (2024). Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models. In [arxiv](https://arxiv.org/abs/2403.00231)
+- Lei Li<sup>\*</sup>, **Yuqi Wang**<sup>\*</sup>, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu (2024). Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models. In [arxiv](https://arxiv.org/abs/2403.00231)
+- Yazheng Yang, Yuqi Wang, Sankalok Sen, Lei Li, Qi Liu (2024). Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science. In [arxiv](https://arxiv.org/abs/2403.20208)
+- Aitor Ormazabal, Che Zheng, Cyprien de Masson d'Autume, Dani Yogatama, Deyu Fu, Donovan Ong, Eric Chen, Eugenie Lamprecht, Hai Pham, Isaac Ong, Kaloyan Aleksiev, Lei Li, Matthew Henderson, Max Bain, Mikel Artetxe, Nishant Relan, Piotr Padlewski, Qi Liu, Ren Chen, Samuel Phua, Yazheng Yang, Yi Tay, **Yuqi Wang**, Zhongkai Zhu, Zhihui Xie (2024). Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models. In [arxiv](https://arxiv.org/abs/2404.12387)
 
 ## Awards
 
-- Gold Medal, The 2020 International Collegiate Programming Contest Asia Yinchuan Regional Contest
 - Gold Medal, The 2020 International Collegiate Programming Contest Asia Shanghai Regional Contest
+- Gold Medal, The 2020 International Collegiate Programming Contest Asia Yinchuan Regional Contest
 - Silver Prize, 2020 China Collegiate Programming Contest, Qinhuangdao Site
 - Silver Prize, 2020 China Collegiate Programming Contest, Mianyang Site
 - First Prize, 2021 Group Programming Ladder Tournament

@@ -62,3 +62,11 @@ Based on MMbench, propose a benchmark in which the problem is unsolvable.
 The wikiHow dataset contains a high-level goal (how to do something) accompanied by interleaved images and text representing the steps.
 
 the task in the paper is to match the goal with images.
+
+
+### 202405
+**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**
+
+Select text-rich images from laion.
+Use "ocr result", "caption" as context to generate QA pairs with GPT-4. 
+Fine-tune llava
