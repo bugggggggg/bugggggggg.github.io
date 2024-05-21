@@ -70,3 +70,12 @@ the task in the paper is to match the goal with images.
 Select text-rich images from laion.
 Use "ocr result", "caption" as context to generate QA pairs with GPT-4. 
 Fine-tune llava
+
+
+**Odyssey-Math**
+
+A hard math benchmark(harder than Math and GSM8K)
+ask model to generate json format ({"answer": "", "reasoning": ""}), then use LLM to judge the answer with std
+cons:
+- it's better to put the "reasoning" first. 
+- why json format? it's better output answer then judged with LLM like MathVista
