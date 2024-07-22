@@ -13,6 +13,7 @@ Email: 1250378468@qq.com
   Major: Software Engineering;
   GPA: 4.67/5.0
 - The University of Hong Kong, Master of Computer Science 09/2022-now<br/>
+  GPA: 4.02/4.3
   Advisor: Liu Qi
 
 ## Experience
@@ -47,11 +48,11 @@ Email: 1250378468@qq.com
 
 ## Publication
 
-- Yazheng Yang, **Yuqi Wang**, Guang Liu, Ledell Wu, Qi Liu (2023). UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data. In [ICLR 2024](https://arxiv.org/abs/2307.09249).
+- Yazheng Yang, **Yuqi Wang**, Guang Liu, Ledell Wu, Qi Liu (2023). **UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data**. In [ICLR 2024](https://arxiv.org/abs/2307.09249).
 - Lei Li<sup>\*</sup>, **Yuqi Wang**<sup>\*</sup>, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu (2024). Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models. In [arxiv](https://arxiv.org/abs/2403.00231)
-- Yazheng Yang, **Yuqi Wang**, Sankalok Sen, Lei Li, Qi Liu (2024). Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science. In [arxiv](https://arxiv.org/abs/2403.20208)
-- Aitor Ormazabal, Che Zheng, Cyprien de Masson d'Autume, Dani Yogatama, Deyu Fu, Donovan Ong, Eric Chen, Eugenie Lamprecht, Hai Pham, Isaac Ong, Kaloyan Aleksiev, Lei Li, Matthew Henderson, Max Bain, Mikel Artetxe, Nishant Relan, Piotr Padlewski, Qi Liu, Ren Chen, Samuel Phua, Yazheng Yang, Yi Tay, **Yuqi Wang**, Zhongkai Zhu, Zhihui Xie (2024). Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models. In [arxiv](https://arxiv.org/abs/2404.12387)
-- Piotr Padlewski, Max Bain, Matthew Henderson, Zhongkai Zhu, Nishant Relan, Hai Pham, Donovan Ong, Kaloyan Aleksiev, Aitor Ormazabal, Samuel Phua, Ethan Yeo, Eugenie Lamprecht, Qi Liu, **Yuqi Wang**, Eric Chen, Deyu Fu, Lei Li, Che Zheng, Cyprien de Masson d'Autume, Dani Yogatama, Mikel Artetxe, Yi Tay. Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models. In [arxiv](https://arxiv.org/abs/2405.02287)
+- Yazheng Yang, **Yuqi Wang**, Sankalok Sen, Lei Li, Qi Liu (2024). **Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science**. In [arxiv](https://arxiv.org/abs/2403.20208)
+- Aitor Ormazabal, Che Zheng, Cyprien de Masson d'Autume, Dani Yogatama, Deyu Fu, Donovan Ong, Eric Chen, Eugenie Lamprecht, Hai Pham, Isaac Ong, Kaloyan Aleksiev, Lei Li, Matthew Henderson, Max Bain, Mikel Artetxe, Nishant Relan, Piotr Padlewski, Qi Liu, Ren Chen, Samuel Phua, Yazheng Yang, Yi Tay, **Yuqi Wang**, Zhongkai Zhu, Zhihui Xie (2024). **Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models**. In [arxiv](https://arxiv.org/abs/2404.12387)
+- Piotr Padlewski, Max Bain, Matthew Henderson, Zhongkai Zhu, Nishant Relan, Hai Pham, Donovan Ong, Kaloyan Aleksiev, Aitor Ormazabal, Samuel Phua, Ethan Yeo, Eugenie Lamprecht, Qi Liu, **Yuqi Wang**, Eric Chen, Deyu Fu, Lei Li, Che Zheng, Cyprien de Masson d'Autume, Dani Yogatama, Mikel Artetxe, Yi Tay. **Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**. In [arxiv](https://arxiv.org/abs/2405.02287)
 
 ## Awards
 

@@ -86,6 +86,13 @@ while true;do
 done
 
 ls -lrt | awk '{ total += $5 }; END { print total }'
+
+# support emoji render in linux
+# sudo apt install fonts-noto-color-emoji
+https://gist.github.com/arafathusayn/3d384adfbbdfe0b6a12868e9046e9a23
+
+# linux version
+cat /etc/lsb-release
 ```
 
 ### HugginceFace
