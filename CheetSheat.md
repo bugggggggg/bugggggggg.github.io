@@ -14,13 +14,18 @@ tmux kill-session -t mysession
 tmux rename-session -t old-session-name new-session-name
 ```
 
-### Conda
+### Python
 
 ```bash
 conda env list
 conda create -n py311 python=3.11
 conda remove --name ENVIRONMENT --all
 echo 'export PATH=/path/to/anaconda3/bin:$PATH' >> ~/.bashrc
+
+source .venv/bin/activate
+deactivate
+
+poetry env use python3.10
 ```
 
 ### Git
@@ -37,6 +42,20 @@ git config --global user.email your@email.example
 git remote add origin git@github.com:<username>/<reponame>.git
 git branch -M main
 git push -u origin main
+
+# move changes from current branch to another
+git stash
+git checkout correct-branch
+git stash pop
+
+# reset commit
+git reset --soft HEAD~1
+
+git lfs version
+sudo apt install git-lfs
+git lfs install
+git lfs fetch
+git lfs checkout
 ```
 
 ### Slurm
@@ -116,4 +135,17 @@ git@hf.co:<username>/<name of model>
 
 ```bash
 python -m torch.utils.collect_env 
+```
+
+## Docker
+
+```bash
+# bash into a docker container, useful for debugging
+docker exec -it $CONTAINER_ID sh
+
+docker logs $CONTAINER_ID
+
+# if permission denied
+sudo chmod 666 /var/run/docker.sock
+
 ```
