@@ -12,6 +12,9 @@ tmux detach
 tmux ls
 tmux kill-session -t mysession
 tmux rename-session -t old-session-name new-session-name
+
+# kill pane
+Ctrl+B &
 ```
 
 ### Python
@@ -38,6 +41,7 @@ git config user.email your@email.example
 git config --global user.name "Your Name Here"
 git config --global user.email your@email.example
 
+git remote remove origin
 # push a existing local repo to remote
 git remote add origin git@github.com:<username>/<reponame>.git
 git branch -M main
