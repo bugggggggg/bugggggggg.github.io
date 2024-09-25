@@ -13,6 +13,9 @@ tmux ls
 tmux kill-session -t mysession
 tmux rename-session -t old-session-name new-session-name
 
+# new window
+Ctrl+B C
+
 # kill pane
 Ctrl+B &
 ```
@@ -151,5 +154,8 @@ docker logs $CONTAINER_ID
 
 # if permission denied
 sudo chmod 666 /var/run/docker.sock
+
+# docker image -> image file
+enroot import -o mmlm-240914.sqsh dockerd://mmlm-240914:latest
 
 ```
