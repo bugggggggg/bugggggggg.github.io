@@ -23,6 +23,7 @@ Ctrl+B &
 ### Python
 
 ```bash
+conda activate /path/to/python-path
 conda env list
 conda create -n py311 python=3.11
 conda remove --name ENVIRONMENT --all
