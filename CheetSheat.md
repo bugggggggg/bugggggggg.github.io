@@ -101,6 +101,7 @@ fi
 
 # memory size
 grep MemTotal /proc/meminfo
+free -g
 
 # basename of a file
 stem=$(basename "${file}" .gz)
