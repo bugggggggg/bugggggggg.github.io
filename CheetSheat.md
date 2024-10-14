@@ -160,4 +160,8 @@ sudo chmod 666 /var/run/docker.sock
 # docker image -> image file
 enroot import -o mmlm-240914.sqsh dockerd://mmlm-240914:latest
 
+# image file -> docker image
+unsquashfs mmlm-240914.sqsh
+tar -czvf mmlm-240914.tar.gz squashfs-root/
+cat mmlm-240914.tar.gz | docker import - mmlm-240914:latest
 ```
