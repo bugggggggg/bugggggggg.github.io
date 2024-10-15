@@ -157,6 +157,8 @@ docker logs $CONTAINER_ID
 # if permission denied
 sudo chmod 666 /var/run/docker.sock
 
+
+# https://www.nhr.kit.edu/userdocs/horeka/containers/
 # docker image -> image file
 enroot import -o mmlm-240914.sqsh dockerd://mmlm-240914:latest
 
