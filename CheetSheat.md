@@ -75,6 +75,7 @@ sinfo -o "%n %e %m %a %c %C"
 scontrol show job [job_id]
 # run execution time of a finish job
 sacct --format=JobID,JobName,Elapsed,Start,End
+sacct -j 119311 --format=JobID,JobName,MaxRSS,Elapsed
 ```
 
 ### Shell
@@ -157,13 +158,15 @@ docker logs $CONTAINER_ID
 # if permission denied
 sudo chmod 666 /var/run/docker.sock
 
+# restart
+sudo systemctl restart docker
 
 # https://www.nhr.kit.edu/userdocs/horeka/containers/
 # docker image -> image file
 enroot import -o mmlm-240914.sqsh dockerd://mmlm-240914:latest
 
 # image file -> docker image
-unsquashfs mmlm-240914.sqsh
-tar -czvf mmlm-240914.tar.gz squashfs-root/
-cat mmlm-240914.tar.gz | docker import - mmlm-240914:latest
+# unsquashfs mmlm-240914.sqsh
+# tar -czvf mmlm-240914.tar.gz squashfs-root/
+# cat mmlm-240914.tar.gz | docker import - mmlm-240914:latest
 ```
