@@ -64,6 +64,8 @@ sudo apt install git-lfs
 git lfs install
 git lfs fetch
 git lfs checkout
+huggingface-cli lfs-enable-largefiles .
+git lfs track "*.your_extension"
 ```
 
 ### Slurm
