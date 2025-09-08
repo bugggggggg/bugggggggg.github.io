@@ -66,6 +66,9 @@ git lfs fetch
 git lfs checkout
 huggingface-cli lfs-enable-largefiles .
 git lfs track "*.your_extension"
+
+# ssh over http
+https://docs.github.com/en/authentication/troubleshooting-ssh/using-ssh-over-the-https-port
 ```
 
 ### Slurm
