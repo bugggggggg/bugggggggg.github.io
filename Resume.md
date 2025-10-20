@@ -9,15 +9,17 @@ Email: wangyuqi@connect.hku.hk
 
 ## Education Background
 
-- Tongji University, Bachelor of Engineering 09/2018-07/2022 <br/>
-  - Major: Software Engineering
-  - GPA: 4.67/5.0
-  - Honors: The First Prize Scholarship, Tongji University, 2018-2019
+- The University of Hong Kong, PhD in Computer and Data Science. 09/2025-
+
 - The University of Hong Kong, Master of Computer Science 09/2022-07/2024, with Distinction<br/>
   - GPA: 4.02/4.3
   - Advisor: Liu Qi
   - Honors: The China Postgraduate Scholarships for Computer Science, The University of Hong Kong, 2022-2023
   - Dissertation: Solve Mathematical Problems in Textual Image
+- Tongji University, Bachelor of Engineering 09/2018-07/2022 <br/>
+  - Major: Software Engineering
+  - GPA: 4.67/5.0
+  - Honors: The First Prize Scholarship, Tongji University, 2018-2019
 
 ## Experience
 
@@ -45,7 +47,7 @@ Email: wangyuqi@connect.hku.hk
 <p style="text-align:left;">
     <a href="https://reka.ai/">Full-time, Reka AI</a>
     <span style="float:right;">
-        07/2024-Now
+        07/2024-08/2025
     </span>
 </p>
 
